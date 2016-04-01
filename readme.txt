@@ -1,1 +1,1 @@
-ConnectionUtil.java 数据库连接池
+ConnectionUtil.java: DB connect pool initialize
